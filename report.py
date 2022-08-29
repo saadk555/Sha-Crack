@@ -1,5 +1,7 @@
 from fpdf import FPDF
 
+# fpdf library for pdf generation
+
 class PDF(FPDF):
     def header(self):
         self.image('logo.png', 10, 8, 33)
