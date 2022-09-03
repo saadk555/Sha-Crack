@@ -8,4 +8,16 @@ My main purpose was to create an easy to understant project which would help cyb
 
 It might be getting more updates in future
 
+Libraries used in this project
+
+Hashlib 
+https://code.krypto.org/python/hashlib/ 
+[pip install hashlib]
+
+fpdf 1.7.2
+https://github.com/reingart/pyfpdf
+[pip install fpdf]
+
+For more information and licenses of those Libraries, please see the 'libraries' directory
+
 
