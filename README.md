@@ -8,6 +8,8 @@ My main purpose was to create an easy to understant project which would help cyb
 
 It might be getting more updates in future
 
+
+----------------------------------------------------
 Libraries used in this project
 
 Hashlib 
@@ -18,6 +20,7 @@ fpdf 1.7.2
 https://github.com/reingart/pyfpdf
 [pip install fpdf]
 
-For more information and licenses of those Libraries, please see the 'libraries' directory
+For more information and licenses, please see the 'libraries' directory.
+----------------------------------------------------
 
 
