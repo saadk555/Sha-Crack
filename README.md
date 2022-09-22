@@ -19,10 +19,13 @@ fpdf 1.7.2
 https://github.com/reingart/pyfpdf
 `pip install fpdf`
 
-Libraries and their uses are covered by their respective licenses in 'Libraries' directory 
-
-For more information and licenses, please see the [libraries](https://github.com/saadk555/password-security/tree/main/Libraries) directory.
+Libraries and their uses are covered by their respective licenses in [Libraries](https://github.com/saadk555/Sha-Crack/tree/main/Libraries) directory 
 
 ----------------------------------------------------
 
+Feel free to contribute and improve it.
+
+Any contribution would be highly appreciated.
+
+----------------------------------------------------
 
