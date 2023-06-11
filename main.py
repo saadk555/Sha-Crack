@@ -44,7 +44,11 @@ b = str(a)
 # printing final text related to the percentage
 pdf.set_font('Arial', 'I', 14)
 pdf.cell(80)
-pdf.cell(81, 10, ' Percentage of your Vulnerable Passwords is ' + b + '%', 0, 1,'C')
+pdf.cell(81, 10, ' Percentage of your Vulnerable Passwords is ')
+# + b + '%', 0, 1,'C')
+print(a)
+print(type(a))
+pdf.percentage_to_round_chart(a, 50, "red")
 
 # generating pdf and then opening it
 pdf.output(filename,'F')
